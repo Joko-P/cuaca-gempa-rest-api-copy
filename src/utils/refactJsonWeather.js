@@ -66,7 +66,7 @@ const refactJsonWeather = (weathers = {}) => {
                 return {
                   ...timeRange._attributes,
                   deg,
-                  card: `${card} (${cardCodeToText(card)})`,
+                  card: `${cardCodeToText(card)}`,
                   sexa,
                 };
               }
