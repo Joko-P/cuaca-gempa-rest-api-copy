@@ -1,8 +1,8 @@
-# REST API Cuaca & Gempa Terkini
+# REST API Cuaca & Gempa Terkini (Edited by Joko_P)
 
 > 🚨**Catatan**
 > 
-> Tautan ini https://cuaca-gempa-rest-api.vercel.app/ sewaktu-waktu bisa dimatikan karena batasan Vercel, silakan deploy menggunakan akun Vercel sendiri. 
+> [Tautan ini](https://cuaca-gempa-rest-api-copy-joko-p.vercel.app/) sewaktu-waktu bisa dimatikan karena batasan Vercel atau hal lain, silakan deploy menggunakan akun Vercel sendiri. 
 
 REST API prakiraan cuaca, suhu udara, kelembapan udara, kecepatan angin, dan arah angin untuk kota-kota besar di **34 provinsi** di Indonesia dalam waktu **3 harian** dan gempa terbaru dengan format JSON yang lebih ramah.
 
