@@ -15,7 +15,7 @@ const cardCode = {
   WNW: 'Barat-Barat Laut',
   NW: 'Barat Laut',
   NNW: 'Utara-Barat Laut',
-  VARIABLE; 'Berubah-ubah',
+  VARIABLE: 'Berubah-ubah',
 };
 
 const cardCodeToText = (code) => {
